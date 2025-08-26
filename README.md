@@ -4,11 +4,11 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salekmasudparvez&show_icons=true&theme=jolly&hide_title=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salekmasudparvez1&show_icons=true&theme=jolly&hide_title=true)
 
 ## :chart_with_upwards_trend: Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salekmasudparvez&theme=jolly&hide_title=true)](https://github.com/salekmasudparvez)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salekmasudparvez1&theme=jolly&hide_title=true)](https://github.com/salekmasudparvez)
 
 ## 🚀 About Me
 
