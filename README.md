@@ -6,10 +6,6 @@
 
 ![Anurag's GitHub stats](https://smp-github-state.vercel.app/api/stats?username=salekmasudparvez1)
 
-## :chart_with_upwards_trend: Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salekmasudparvez1&theme=jolly&hide_title=true)](https://github.com/salekmasudparvez)
-
 ## 🚀 About Me
 
 <p align="center">
