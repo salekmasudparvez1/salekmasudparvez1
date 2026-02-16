@@ -4,7 +4,7 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salekmasudparvez1&show_icons=true&theme=jolly&hide_title=true)
+![Anurag's GitHub stats](https://smp-github-state.vercel.app/api/stats?username=salekmasudparvez1)
 
 ## :chart_with_upwards_trend: Top Languages
 
