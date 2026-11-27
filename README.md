@@ -4,7 +4,7 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-![Anurag's GitHub stats](https://smp-github-state.vercel.app/api/stats?username=salekmasudparvez1)
+![GitHub Stats](https://smp-github-state.vercel.app/api/stats?username=salekmasudparvez1&theme=neural&variant=modern&animate=true&role=AI+%26+ML+Engineer)
 
 ## 🚀 About Me
 
